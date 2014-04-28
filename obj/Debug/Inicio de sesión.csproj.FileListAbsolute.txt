@@ -1,0 +1,7 @@
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\bin\Debug\Inicio de sesión.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\bin\Debug\Inicio de sesión.pdb
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\obj\Debug\Inicio de sesión.csprojResolveAssemblyReference.cache
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\obj\Debug\Aceros8DeJulio.MainForm.resources
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\obj\Debug\Inicio de sesión.csproj.GenerateResource.Cache
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\obj\Debug\Inicio de sesión.exe
+C:\Users\Ivette\Documents\SharpDevelop Projects\Aceros8DeJulio\Aceros8DeJulio\obj\Debug\Inicio de sesión.pdb
